@@ -1,3 +1,3 @@
 # ghmattimysql
 
-ghmattimysql. Seeing as how the original owner removed it :(
+Fork of original ghmattimysql before the owner removed it.
